@@ -1,0 +1,16 @@
+{
+  "sites": {
+    "fukushima": {
+      "name": "Fukushima Food Guide",
+      "short_name": "Fukushima Food",
+      "kind_label": "Food magazine",
+      "hero_title": "Take your time exploring\nthe flavors of Fukushima.",
+      "description": "Regional dishes, noodles, fruit and seafood: a guide to the flavors of Aizu, Nakadori and Hamadori in Fukushima.",
+      "subtitle": "Stories about the tastes of Fukushima",
+      "hero_note": "Local flavors and short trips",
+      "about": "A Fukushima food guide based on social posts by people who visited local eateries. Cover images are AI-created watercolor illustrations; see the embedded original posts for actual photos of the food.",
+      "source_hash": "91db8ce13ae140ad46ea46c14c89424eb31f22c191d8e1e5e3db3ece54565b4b"
+    }
+  },
+  "posts": {}
+}

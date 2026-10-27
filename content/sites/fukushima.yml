@@ -1,0 +1,15 @@
+id: fukushima
+name: 福島グルメ案内
+short_name: 福島グルメ
+kind: media
+kind_label: グルメメディア
+accent: '#9c3d2e'
+eyebrow: TASTE OF FUKUSHIMA
+hero_title: '福島のおいしいものを、
+ゆっくりめぐる。'
+description: 郷土料理、麺、果物、海の幸。会津・中通り・浜通り、福島のおいしい風景をたどるグルメ案内です。
+subtitle: 福島の味を集めた読みもの
+hero_note: 郷土の味と小さな旅
+about: 福島県内の飲食店を訪れた人のSNS投稿をもとに、お店と料理を紹介するグルメ案内です。カバー画像はAIが作成した水彩調イラストで、実際の料理の写真は各記事に埋め込んだ元投稿で確認できます。
+
+hero_image: fukushima/hero.webp
