@@ -1,0 +1,21 @@
+{
+  "site": "fukushima",
+  "category_map": {
+    "中通り": "Nakadori"
+  },
+  "note": "PLaMo 3 Translate 用の用語集。terms は全段落共通でモデルへ渡す。",
+  "terms": [
+    {
+      "source": "福島",
+      "target": "Fukushima"
+    },
+    {
+      "source": "二本松",
+      "target": "Nihonmatsu"
+    },
+    {
+      "source": "円盤餃子",
+      "target": "enban gyoza"
+    }
+  ]
+}
