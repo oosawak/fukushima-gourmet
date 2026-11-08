@@ -12,5 +12,38 @@
       "source_hash": "91db8ce13ae140ad46ea46c14c89424eb31f22c191d8e1e5e3db3ece54565b4b"
     }
   },
-  "posts": {}
+  "posts": {
+    "fukushima:echigoya-omose-fukushima": {
+      "title": "Fukushima City \"Echigoya Omose\" — Hearty Nori Bento Set Meal",
+      "category": "Nakadori",
+      "summary": "\"Echigoya Omose,\" a set-meal restaurant in Fukushima City. Its lavish nori bento is highly acclaimed, with visitors' posts noting that the portions are generous for the price.",
+      "cover_alt": "Watercolor-style illustration of a nori-ben set meal",
+      "markdown": "This is \"Echigoya Omose,\" a set-meal restaurant in Fukushima City.\n\nThe original post describes a luxurious nori bento. The visitor's impression comes across—that it was hearty and filling, and that this amount at this price is a great value.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@__yna.24/post/DBRA8HWzlNM)\n",
+      "source_hash": "24afb27f2ad0bd7c9102b16d9c98e0d07abf609deddaba046b3e9ff07012013d"
+    },
+    "fukushima:kurosawa-fukushima": {
+      "title": "Fukushima City \"Washoku Kurosawa\" — Kuroge Wagyu Hitsumabushi Gozen \"Kagayaki\"",
+      "category": "Nakadori",
+      "summary": "\"Kurosawa,\" a Japanese restaurant in the Shinobuyama area of Fukushima City. Visitor reviews highlight its Kuroge Wagyu hitsumabushi set meal as offering great value for the price.",
+      "cover_alt": "Watercolor-style illustration of a Kuroge Wagyu hitsumabushi set meal",
+      "markdown": "This is Kurosawa, a Japanese restaurant in the Shinobuyama area of Fukushima City.\n\nThe original post describes ordering the \"Kagayaki\" Kuroge Wagyu hitsumabushi set meal. Praised as \"affordable and delicious,\" it seems to have left a lasting impression as a meal where one can enjoy high-quality Wagyu in the form of hitsumabushi.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@shijing957/post/Deve8Q6oArY)\n",
+      "source_hash": "70035f53638b6930189213ed7d599e9f940396f1d9edb0421cd0a7957c9f1cc6"
+    },
+    "fukushima:kuwon-fukushima": {
+      "title": "Fukushima City \"Handmade Jumbo Gyoza Shop Kuwon\" — Large Gyoza Set Meal",
+      "category": "Nakadori",
+      "summary": "\"Tezukuri Jumbo Gyoza no Mise Kuwon,\" located near the west exit of Fukushima Station. Its set meals featuring gyoza and niku-sui—both far larger than usual—have earned rave reviews in posts from multiple visitors.",
+      "cover_alt": "Watercolor-style illustration of a jumbo gyoza set meal",
+      "markdown": "This is \"Tezukuri Jumbo Gyoza no Mise Kuwon,\" located right by the west exit of Fukushima Station.\n\nThe original post describes how surprised the writer was by the jumbo gyoza, each of which was enormous. The visitor mentioned that they regretted ordering the 6-piece set because it was too large, suggesting that a 4-piece set would be just right. Another visitor's post also noted that the combination of gyoza and niku-sui (meat soup) was delicious.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@takita0411/post/Dd0_JcKgdev)\n",
+      "source_hash": "9b4627658452892fb350bd7a1ae12fa5bcab50d03d86665f98781e4ddeb8bec4"
+    },
+    "fukushima:narikoma-nihonmatsu": {
+      "title": "Nihonmatsu City \"Oshokujidokoro Narikoma\" — Sauce Katsudon",
+      "category": "Nakadori",
+      "summary": "\"Oshokujidokoro Narikoma\" in Nihonmatsu City. A katsudon served with sauce rather than egg-simmered is described as \"delicious\" in visitor reviews.",
+      "cover_alt": "Watercolor-style illustration of sauce katsudon",
+      "markdown": "This is \"Oshokujidokoro Narikoma\" in Nihonmatsu City.\n\nThe original post describes a meal of sauce katsudon. A visitor who prefers sauce katsudon over egg-simmered katsudon looked thoroughly satisfied with their bowl.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@chloehina1031/post/DY88vHZkQ7m)\n",
+      "source_hash": "0d095e54745af195536fe7379040bae8133d5b010632f79dfc0c27559394836f"
+    }
+  }
 }
