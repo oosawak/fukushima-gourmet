@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Fukushima City \"Echigoya Omose\" — Hearty Nori Bento Set Meal",
+      "category": "Nakadori",
+      "summary": "\"Echigoya Omose,\" a set-meal restaurant in Fukushima City. Its lavish nori bento is highly acclaimed, with visitors' posts noting that the portions are generous for the price.",
+      "cover_alt": "Watercolor-style illustration of a nori-ben set meal",
+      "html": "<p>This is &quot;Echigoya Omose,&quot; a set-meal restaurant in Fukushima City.</p>\n<p>The original post describes a luxurious nori bento. The visitor's impression comes across—that it was hearty and filling, and that this amount at this price is a great value.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@__yna.24/post/DBRA8HWzlNM\">Threads post</a></p>\n",
+      "markdown": "This is \"Echigoya Omose,\" a set-meal restaurant in Fukushima City.\n\nThe original post describes a luxurious nori bento. The visitor's impression comes across—that it was hearty and filling, and that this amount at this price is a great value.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@__yna.24/post/DBRA8HWzlNM)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@__yna.24/post/DBRA8HWzlNM",
   "embed_platform": "threads",

@@ -60,7 +60,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Nihonmatsu City \"Oshokujidokoro Narikoma\" — Sauce Katsudon",
+          "category": "Nakadori",
+          "summary": "\"Oshokujidokoro Narikoma\" in Nihonmatsu City. A katsudon served with sauce rather than egg-simmered is described as \"delicious\" in visitor reviews.",
+          "cover_alt": "Watercolor-style illustration of sauce katsudon"
+        }
       },
       "embed_url": "https://www.threads.com/@chloehina1031/post/DY88vHZkQ7m",
       "embed_platform": "threads",
@@ -86,7 +91,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Fukushima City \"Handmade Jumbo Gyoza Shop Kuwon\" — Large Gyoza Set Meal",
+          "category": "Nakadori",
+          "summary": "\"Tezukuri Jumbo Gyoza no Mise Kuwon,\" located near the west exit of Fukushima Station. Its set meals featuring gyoza and niku-sui—both far larger than usual—have earned rave reviews in posts from multiple visitors.",
+          "cover_alt": "Watercolor-style illustration of a jumbo gyoza set meal"
+        }
       },
       "embed_url": "https://www.threads.com/@takita0411/post/Dd0_JcKgdev",
       "embed_platform": "threads",
@@ -112,7 +122,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Fukushima City \"Washoku Kurosawa\" — Kuroge Wagyu Hitsumabushi Gozen \"Kagayaki\"",
+          "category": "Nakadori",
+          "summary": "\"Kurosawa,\" a Japanese restaurant in the Shinobuyama area of Fukushima City. Visitor reviews highlight its Kuroge Wagyu hitsumabushi set meal as offering great value for the price.",
+          "cover_alt": "Watercolor-style illustration of a Kuroge Wagyu hitsumabushi set meal"
+        }
       },
       "embed_url": "https://www.threads.com/@shijing957/post/Deve8Q6oArY",
       "embed_platform": "threads",
@@ -138,7 +153,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Fukushima City \"Echigoya Omose\" — Hearty Nori Bento Set Meal",
+          "category": "Nakadori",
+          "summary": "\"Echigoya Omose,\" a set-meal restaurant in Fukushima City. Its lavish nori bento is highly acclaimed, with visitors' posts noting that the portions are generous for the price.",
+          "cover_alt": "Watercolor-style illustration of a nori-ben set meal"
+        }
       },
       "embed_url": "https://www.threads.com/@__yna.24/post/DBRA8HWzlNM",
       "embed_platform": "threads",

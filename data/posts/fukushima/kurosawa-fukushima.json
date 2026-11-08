@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Fukushima City \"Washoku Kurosawa\" — Kuroge Wagyu Hitsumabushi Gozen \"Kagayaki\"",
+      "category": "Nakadori",
+      "summary": "\"Kurosawa,\" a Japanese restaurant in the Shinobuyama area of Fukushima City. Visitor reviews highlight its Kuroge Wagyu hitsumabushi set meal as offering great value for the price.",
+      "cover_alt": "Watercolor-style illustration of a Kuroge Wagyu hitsumabushi set meal",
+      "html": "<p>This is Kurosawa, a Japanese restaurant in the Shinobuyama area of Fukushima City.</p>\n<p>The original post describes ordering the &quot;Kagayaki&quot; Kuroge Wagyu hitsumabushi set meal. Praised as &quot;affordable and delicious,&quot; it seems to have left a lasting impression as a meal where one can enjoy high-quality Wagyu in the form of hitsumabushi.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@shijing957/post/Deve8Q6oArY\">Threads post</a></p>\n",
+      "markdown": "This is Kurosawa, a Japanese restaurant in the Shinobuyama area of Fukushima City.\n\nThe original post describes ordering the \"Kagayaki\" Kuroge Wagyu hitsumabushi set meal. Praised as \"affordable and delicious,\" it seems to have left a lasting impression as a meal where one can enjoy high-quality Wagyu in the form of hitsumabushi.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@shijing957/post/Deve8Q6oArY)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@shijing957/post/Deve8Q6oArY",
   "embed_platform": "threads",

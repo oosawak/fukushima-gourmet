@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Nihonmatsu City \"Oshokujidokoro Narikoma\" — Sauce Katsudon",
+      "category": "Nakadori",
+      "summary": "\"Oshokujidokoro Narikoma\" in Nihonmatsu City. A katsudon served with sauce rather than egg-simmered is described as \"delicious\" in visitor reviews.",
+      "cover_alt": "Watercolor-style illustration of sauce katsudon",
+      "html": "<p>This is &quot;Oshokujidokoro Narikoma&quot; in Nihonmatsu City.</p>\n<p>The original post describes a meal of sauce katsudon. A visitor who prefers sauce katsudon over egg-simmered katsudon looked thoroughly satisfied with their bowl.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@chloehina1031/post/DY88vHZkQ7m\">Threads post</a></p>\n",
+      "markdown": "This is \"Oshokujidokoro Narikoma\" in Nihonmatsu City.\n\nThe original post describes a meal of sauce katsudon. A visitor who prefers sauce katsudon over egg-simmered katsudon looked thoroughly satisfied with their bowl.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@chloehina1031/post/DY88vHZkQ7m)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@chloehina1031/post/DY88vHZkQ7m",
   "embed_platform": "threads",

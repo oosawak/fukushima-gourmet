@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Fukushima City \"Handmade Jumbo Gyoza Shop Kuwon\" — Large Gyoza Set Meal",
+      "category": "Nakadori",
+      "summary": "\"Tezukuri Jumbo Gyoza no Mise Kuwon,\" located near the west exit of Fukushima Station. Its set meals featuring gyoza and niku-sui—both far larger than usual—have earned rave reviews in posts from multiple visitors.",
+      "cover_alt": "Watercolor-style illustration of a jumbo gyoza set meal",
+      "html": "<p>This is &quot;Tezukuri Jumbo Gyoza no Mise Kuwon,&quot; located right by the west exit of Fukushima Station.</p>\n<p>The original post describes how surprised the writer was by the jumbo gyoza, each of which was enormous. The visitor mentioned that they regretted ordering the 6-piece set because it was too large, suggesting that a 4-piece set would be just right. Another visitor's post also noted that the combination of gyoza and niku-sui (meat soup) was delicious.</p>\n<p>You can find the restaurant's location, phone number, and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@takita0411/post/Dd0_JcKgdev\">Threads post</a></p>\n",
+      "markdown": "This is \"Tezukuri Jumbo Gyoza no Mise Kuwon,\" located right by the west exit of Fukushima Station.\n\nThe original post describes how surprised the writer was by the jumbo gyoza, each of which was enormous. The visitor mentioned that they regretted ordering the 6-piece set because it was too large, suggesting that a 4-piece set would be just right. Another visitor's post also noted that the combination of gyoza and niku-sui (meat soup) was delicious.\n\nYou can find the restaurant's location, phone number, and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@takita0411/post/Dd0_JcKgdev)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@takita0411/post/Dd0_JcKgdev",
   "embed_platform": "threads",
